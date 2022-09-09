@@ -1,3 +1,4 @@
 # test-repo
 
-Added some changes
+Added some changes.
+And 2
